@@ -432,6 +432,14 @@
 
 
     }
+   
+    .bounce-top{
+        position: relative;
+        width:3%;
+        top: 10px;
+        left: 20px;
+        
+    }
 
     footer ul {
         display: flex;

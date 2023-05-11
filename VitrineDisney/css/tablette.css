@@ -21,6 +21,17 @@
         width: -webkit-fill-available;
         height: auto;
     }
+    .arrow-down{
+        display: flex;
+        justify-content: center;
+    }
+    .bounce-top{
+        position: relative;
+        width:3%;
+        top: 10px;
+        left: 20px;
+        
+    }
 
     nav,
     nav ul {
